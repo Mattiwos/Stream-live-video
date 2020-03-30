@@ -1,2 +1,2 @@
-cv2
-socketio
+opencv-python==3.4.3.18
+python-socketio[client]
