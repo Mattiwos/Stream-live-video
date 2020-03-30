@@ -32,7 +32,7 @@ while True:
     img_str = cv2.imencode('.jpg', frame)[1].tostring()
 
 
-    sio.emit('liveClientSocket1',img_str)
+    sio.emit('liveClientSocket1',img_str) #first parameter is depending on what socket is listening to 
   
    
 

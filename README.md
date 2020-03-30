@@ -1,6 +1,6 @@
 # Stream-live-video
  
-This uses cv2 and socketioo  to send live video to nodejs server in the background using python 3.7.  
+This uses cv2 and socketio  to send live video to nodejs server in the background made by using python 3.7.7.  
  
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
