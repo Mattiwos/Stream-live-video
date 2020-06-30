@@ -6,9 +6,9 @@ This uses cv2 and socketio  to send live video to nodejs server in the backgroun
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
 ```bash
-pip uninstall socketio 
-pip uninstall python-socketio 
-pip install -r requirements.txt
+pip3 uninstall socketio 
+pip3 uninstall python-socketio 
+pip3 install -r requirements.txt
 ```
 ## Run
 Must be in the file beforehand 
